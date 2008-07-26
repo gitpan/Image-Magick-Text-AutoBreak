@@ -4,7 +4,7 @@ use strict;
 use Carp;
 use Image::Magick;
 use Encode qw(decode);
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 ###  ---------------------------------------------------------------------------
 ### Constractor
@@ -253,7 +253,7 @@ Image::Magick::Text::AutoBreak - Utility for auto line break
 
 =head1 VERSION
 
-This document describes Image::Magick::Text::AutoBreak version 0.01
+This document describes Image::Magick::Text::AutoBreak version 0.02
 
 =head1 DESCRIPTION
 

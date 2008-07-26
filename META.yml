@@ -1,6 +1,6 @@
 ---
 name: Image-Magick-Text-AutoBreak
-version: 0.01
+version: 0.02
 author:
   - 'Sugama Keita <sugama@jamadam.com>'
 abstract: Utility for auto line break
@@ -14,7 +14,7 @@ requires:
 provides:
   Image::Magick::Text::AutoBreak:
     file: lib/Image/Magick/Text/AutoBreak.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
