@@ -1,0 +1,33 @@
+Image-Magick-Text-AutoBreak version 0.01
+
+This is a utility class for Image::Magick. With this module, you can easily
+annotate long strings into multiple lines.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+Alternatively, to install with Module::Build, you can use the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+
+DEPENDENCIES
+
+None.
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008, Sugama Keita
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
